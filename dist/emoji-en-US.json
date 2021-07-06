@@ -745,6 +745,7 @@
   ],
   "💩": [
     "pile_of_poo",
+    "poop",
     "hankey",
     "shitface",
     "fail",
@@ -4335,8 +4336,10 @@
   ],
   "🍄": [
     "mushroom",
-    "plant",
-    "vegetable"
+    "shroom",
+    "toadstool",
+    "fungus",
+    "fungi"
   ],
   "🥜": [
     "peanuts",
@@ -4401,7 +4404,9 @@
     "meat_on_bone",
     "good",
     "food",
-    "drumstick"
+    "drumstick",
+    "barbeque",
+    "bbq"
   ],
   "🍗": [
     "poultry_leg",
@@ -5375,6 +5380,7 @@
   ],
   "🚇": [
     "metro",
+    "subway",
     "transportation",
     "blue-square",
     "mrt",
@@ -6316,7 +6322,8 @@
     "fire",
     "hot",
     "cook",
-    "flame"
+    "flame",
+    "lit"
   ],
   "💧": [
     "droplet",
@@ -7258,6 +7265,7 @@
   ],
   "📱": [
     "mobile_phone",
+    "cell_phone",
     "technology",
     "apple",
     "gadgets",
